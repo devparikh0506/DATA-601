@@ -9,3 +9,7 @@
 *.xlsx
 *.xml
 *.gz
+*.txt
+*.docx
+*.dat
+datasource
